@@ -1,0 +1,23 @@
+#clock {
+    background-color: black;
+    width: fit-content;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    text-align: center;
+    color: #2196f3;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border: 10px solid #2196f3;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+}
